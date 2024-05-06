@@ -1,0 +1,3 @@
+# This is a textfile for testing Git
+
+Right place to be writing future scripts!
